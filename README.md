@@ -10,7 +10,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/organizy/documentation.svg)](https://github.com/organizy/documentation/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/organizy/documentation.svg)](https://github.com/organizy/documentation/issues)
 
-Idea behind it is to make powerfull event driven automation like IFTTT, but, opensource, scalable, distributed and programmable. 
+organizy is powerfull event driven automation like IFTTT, but, opensource, scalable, distributed and programmable 
 
 ## Workers
 
