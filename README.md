@@ -26,15 +26,11 @@ Components are broadcasting events using webhooks.
 
 ## Todo
 
- [*] Write bootstrap documentation
-
- [ ] Write regy
-
- [ ] Write gety
-
- [ ] write sendy
-
- [ ] unknown
+ - [*] Write bootstrap documentation
+ - [ ] Write regy
+ - [ ] Write gety
+ - [ ] write sendy
+ - [ ] unknown
 
 ## Author
 
