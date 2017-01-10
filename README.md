@@ -1,6 +1,6 @@
 # organizy is in phase of concept
 
-Idea behind it is to make powerfull event driven automation like IFTTT, but, opensource, scalable and programmable. 
+Idea behind it is to make powerfull event driven automation like IFTTT, but, opensource, scalable, distributed and programmable. 
 
 ## Event system
 
