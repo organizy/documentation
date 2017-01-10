@@ -1,4 +1,4 @@
-# organizy is in phase of concept
+# organizy [concept]
 
 Idea behind it is to make powerfull event driven automation like IFTTT, but, opensource, scalable, distributed and programmable. 
 
@@ -23,4 +23,20 @@ There is clock event that is broadcasting events once each second, minute, hour.
 ### WebHook event
 
 Components are broadcasting events using webhooks. 
+
+## Todo
+
+ [*] Write bootstrap documentation
+
+ [ ] Write regy
+
+ [ ] Write gety
+
+ [ ] write sendy
+
+ [ ] unknown
+
+## Author
+
+Nemanja Nedeljkovic
 
