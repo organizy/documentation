@@ -2,6 +2,14 @@
 
 Idea behind it is to make powerfull event driven automation like IFTTT, but, opensource, scalable, distributed and programmable. 
 
+## Workers
+
+Workers are core components of organizy and their main goal is to pass events between components. 
+
+## Components
+
+Component is anything that uses organizy protocol. 
+
 ## Event system
 
 Event system is IRC like enviroment where components are able to hook into channels and broadcast into them. 
