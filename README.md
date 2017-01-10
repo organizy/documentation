@@ -3,6 +3,11 @@
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/organizy-chat/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![license](https://img.shields.io/github/license/organizy/documentation.svg)]()
 
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/organizy/documentation.svg)](https://github.com/organizy/documentation/pulls?q=is%3Apr+is%3Aclosed)
+
+
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/organizy/documentation.svg)](https://github.com/organizy/documentation/pulls)
+
 Idea behind it is to make powerfull event driven automation like IFTTT, but, opensource, scalable, distributed and programmable. 
 
 ## Workers
