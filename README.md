@@ -34,5 +34,4 @@ Components are broadcasting events using webhooks.
 
 ## Author
 
-Nemanja Nedeljkovic
-
+Nemanja Nedeljković
